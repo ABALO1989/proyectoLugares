@@ -12,8 +12,8 @@ const DUMMY_PLACES = [
       "https://dam.ngenespanol.com/wp-content/uploads/2019/06/empire-state.png",
     address: "20 W 34th St, New York, NY 10001, Estados Unidos",
     location: {
-      lat: 40.7491245,
-      lng: -73.9904587,
+      lat: 40.748897,
+      lng: -73.985824,
     },
     creator: "u1",
   },
